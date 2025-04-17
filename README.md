@@ -2,7 +2,39 @@
 
 This repo is prepared for my lecture on fine-tuning OpenAI models with the Multi-Aspect Multi-Sentiment (MAMS) dataset for Aspect-Based Sentiment Analysis: [https://github.com/siat-nlp/MAMS-for-ABSA](https://github.com/siat-nlp/MAMS-for-ABSA).
 
-You can use `openai-jsonl/train_chat_200.jsonl` as the training dataset and `openai-jsonl/val_chat_15.jsonl` as the validation dataset for a quick test.
+## Setup
+
+### Virtual Environment
+
+It's recommended to use a virtual environment to manage dependencies:
+
+```bash
+# Create a virtual environment
+python -m venv venv
+
+# Activate the virtual environment
+# On macOS/Linux:
+source venv/bin/activate
+# On Windows:
+# venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
+### Dependencies
+
+The required dependencies are listed in `requirements.txt`:
+- numpy: For numerical operations and statistics
+- tiktoken: For token counting (used by OpenAI)
+
+### Sample Datasets
+
+For quick testing of OpenAI fine-tuning, you can use the following prepared datasets:
+- Training data: `openai-jsonl/train_chat_200.jsonl` (200 examples)
+- Validation data: `openai-jsonl/val_chat_15.jsonl` (15 examples)
+
+These files are already formatted in the chat format required by OpenAI's fine-tuning API.
 
 ## Scripts Usage Guide
 
