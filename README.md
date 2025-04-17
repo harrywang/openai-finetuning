@@ -117,6 +117,7 @@ The `openai-finetune-check.py` script validates your JSONL dataset for OpenAI fi
 
 ```bash
 python openai-finetune-check.py <file_path> [--model MODEL]
+python openai-finetune-check.py ./openai-jsonl/train_chat_200.jsonl --model gpt-4o-mini-2024-07-18
 ```
 
 #### Parameters
@@ -164,6 +165,7 @@ The script provides:
 ### Transformed JSONL Formats
 
 **Standard Format**:
+
 ```json
 {
   "input": "We went again and sat at the bar this time, I had 5 pints of guinness and not one buy-back, I ordered a basket of onion rings and there were about 5 in the basket, the rest was filled with crumbs, the chili was not even edible.",
@@ -176,6 +178,7 @@ The script provides:
 ```
 
 **Chat Format**:
+
 ```json
 {"messages": [{"role": "system", "content": "you are an expert data labeling assistant that always outputs json format"}, {"role": "user", "content": "We went again and sat at the bar this time, I had 5 pints of guinness and not one buy-back, I ordered a basket of onion rings and there were about 5 in the basket, the rest was filled with crumbs, the chili was not even edible."}, {"role": "assistant", "content": "{\"place\":\"neutral\",\"food\":\"negative\",\"service\":\"unknown\"}"}]}
 ```
