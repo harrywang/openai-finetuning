@@ -1,0 +1,7 @@
+===== Sampling Log (2025-04-17 10:38:48) =====
+
+Input file: /Users/harrywang/sandbox/openai-finetuning/openai-jsonl/val_chat.jsonl
+Output file: /Users/harrywang/sandbox/openai-finetuning/openai-jsonl/val_chat_15.jsonl
+Requested sample size: 15
+Actual samples extracted: 15
+Random seed: 42

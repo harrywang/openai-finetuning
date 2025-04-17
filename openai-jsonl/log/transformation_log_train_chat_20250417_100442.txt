@@ -1,0 +1,61 @@
+===== Transformation Log (2025-04-17 10:04:42) =====
+
+Total records processed: 3149
+
+Total unique categories (8): ambience, food, menu, miscellaneous, place, price, service, staff
+
+Overall polarity distribution:
+  negative: 2084 (8.3%)
+  neutral: 3077 (12.2%)
+  positive: 1929 (7.7%)
+  unknown: 18102 (71.9%)
+
+Category-specific polarity distribution:
+
+  ambience:
+    negative: 90 (2.9% of records, 27.8% of category)
+    neutral: 53 (1.7% of records, 16.4% of category)
+    positive: 181 (5.7% of records, 55.9% of category)
+    unknown: 2825 (89.7% of records)
+
+  food:
+    negative: 255 (8.1% of records, 11.1% of category)
+    neutral: 1298 (41.2% of records, 56.3% of category)
+    positive: 754 (23.9% of records, 32.7% of category)
+    unknown: 842 (26.7% of records)
+
+  menu:
+    negative: 39 (1.2% of records, 8.2% of category)
+    neutral: 372 (11.8% of records, 78.3% of category)
+    positive: 64 (2.0% of records, 13.5% of category)
+    unknown: 2674 (84.9% of records)
+
+  miscellaneous:
+    negative: 196 (6.2% of records, 20.5% of category)
+    neutral: 531 (16.9% of records, 55.7% of category)
+    positive: 227 (7.2% of records, 23.8% of category)
+    unknown: 2195 (69.7% of records)
+
+  place:
+    negative: 139 (4.4% of records, 20.0% of category)
+    neutral: 430 (13.7% of records, 62.0% of category)
+    positive: 125 (4.0% of records, 18.0% of category)
+    unknown: 2455 (78.0% of records)
+
+  price:
+    negative: 114 (3.6% of records, 35.4% of category)
+    neutral: 136 (4.3% of records, 42.2% of category)
+    positive: 72 (2.3% of records, 22.4% of category)
+    unknown: 2827 (89.8% of records)
+
+  service:
+    negative: 329 (10.4% of records, 52.1% of category)
+    neutral: 128 (4.1% of records, 20.3% of category)
+    positive: 174 (5.5% of records, 27.6% of category)
+    unknown: 2518 (80.0% of records)
+
+  staff:
+    negative: 922 (29.3% of records, 66.7% of category)
+    neutral: 129 (4.1% of records, 9.3% of category)
+    positive: 332 (10.5% of records, 24.0% of category)
+    unknown: 1766 (56.1% of records)

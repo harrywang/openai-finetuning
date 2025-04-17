@@ -1,0 +1,61 @@
+===== Transformation Log (2025-04-17 10:04:59) =====
+
+Total records processed: 400
+
+Total unique categories (8): ambience, food, menu, miscellaneous, place, price, service, staff
+
+Overall polarity distribution:
+  negative: 259 (8.1%)
+  neutral: 388 (12.1%)
+  positive: 241 (7.5%)
+  unknown: 2312 (72.2%)
+
+Category-specific polarity distribution:
+
+  ambience:
+    negative: 12 (3.0% of records, 33.3% of category)
+    neutral: 3 (0.8% of records, 8.3% of category)
+    positive: 21 (5.2% of records, 58.3% of category)
+    unknown: 364 (91.0% of records)
+
+  food:
+    negative: 22 (5.5% of records, 7.6% of category)
+    neutral: 180 (45.0% of records, 62.1% of category)
+    positive: 88 (22.0% of records, 30.3% of category)
+    unknown: 110 (27.5% of records)
+
+  menu:
+    negative: 3 (0.8% of records, 5.9% of category)
+    neutral: 41 (10.2% of records, 80.4% of category)
+    positive: 7 (1.8% of records, 13.7% of category)
+    unknown: 349 (87.2% of records)
+
+  miscellaneous:
+    negative: 23 (5.8% of records, 17.8% of category)
+    neutral: 73 (18.2% of records, 56.6% of category)
+    positive: 33 (8.2% of records, 25.6% of category)
+    unknown: 271 (67.8% of records)
+
+  place:
+    negative: 21 (5.2% of records, 23.9% of category)
+    neutral: 42 (10.5% of records, 47.7% of category)
+    positive: 25 (6.2% of records, 28.4% of category)
+    unknown: 312 (78.0% of records)
+
+  price:
+    negative: 20 (5.0% of records, 44.4% of category)
+    neutral: 17 (4.2% of records, 37.8% of category)
+    positive: 8 (2.0% of records, 17.8% of category)
+    unknown: 355 (88.8% of records)
+
+  service:
+    negative: 39 (9.8% of records, 46.4% of category)
+    neutral: 20 (5.0% of records, 23.8% of category)
+    positive: 25 (6.2% of records, 29.8% of category)
+    unknown: 316 (79.0% of records)
+
+  staff:
+    negative: 119 (29.8% of records, 72.1% of category)
+    neutral: 12 (3.0% of records, 7.3% of category)
+    positive: 34 (8.5% of records, 20.6% of category)
+    unknown: 235 (58.8% of records)

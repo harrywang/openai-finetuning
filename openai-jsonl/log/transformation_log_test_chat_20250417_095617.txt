@@ -1,0 +1,60 @@
+===== Transformation Log (2025-04-17 09:56:17) =====
+
+Total records processed: 400
+
+Total unique categories (8): ambience, food, menu, miscellaneous, place, price, service, staff
+
+Overall polarity distribution:
+  negative: 263 (8.2%)
+  neutral: 393 (12.3%)
+  positive: 245 (7.7%)
+  unknown: 2299 (71.8%)
+
+Category-specific polarity distribution:
+
+  ambience:
+    negative: 19 (4.8% of records, 59.4% of category)
+    positive: 13 (3.2% of records, 40.6% of category)
+    unknown: 368 (92.0% of records)
+
+  food:
+    negative: 37 (9.2% of records, 12.7% of category)
+    neutral: 158 (39.5% of records, 54.3% of category)
+    positive: 96 (24.0% of records, 33.0% of category)
+    unknown: 109 (27.3% of records)
+
+  menu:
+    negative: 4 (1.0% of records, 5.3% of category)
+    neutral: 60 (15.0% of records, 78.9% of category)
+    positive: 12 (3.0% of records, 15.8% of category)
+    unknown: 324 (81.0% of records)
+
+  miscellaneous:
+    negative: 22 (5.5% of records, 16.2% of category)
+    neutral: 88 (22.0% of records, 64.7% of category)
+    positive: 26 (6.5% of records, 19.1% of category)
+    unknown: 264 (66.0% of records)
+
+  place:
+    negative: 22 (5.5% of records, 27.2% of category)
+    neutral: 47 (11.8% of records, 58.0% of category)
+    positive: 12 (3.0% of records, 14.8% of category)
+    unknown: 319 (79.8% of records)
+
+  price:
+    negative: 12 (3.0% of records, 31.6% of category)
+    neutral: 16 (4.0% of records, 42.1% of category)
+    positive: 10 (2.5% of records, 26.3% of category)
+    unknown: 362 (90.5% of records)
+
+  service:
+    negative: 34 (8.5% of records, 43.6% of category)
+    neutral: 14 (3.5% of records, 17.9% of category)
+    positive: 30 (7.5% of records, 38.5% of category)
+    unknown: 322 (80.5% of records)
+
+  staff:
+    negative: 113 (28.2% of records, 66.9% of category)
+    neutral: 10 (2.5% of records, 5.9% of category)
+    positive: 46 (11.5% of records, 27.2% of category)
+    unknown: 231 (57.8% of records)

@@ -1,0 +1,7 @@
+===== Sampling Log (2025-04-17 10:10:46) =====
+
+Input file: /Users/harrywang/sandbox/led/mams/MAMS-ACSA/openai-jsonl/train_chat.jsonl
+Output file: /Users/harrywang/sandbox/led/mams/MAMS-ACSA/openai-jsonl/train_chat_200.jsonl
+Requested sample size: 200
+Actual samples extracted: 200
+Random seed: 42
